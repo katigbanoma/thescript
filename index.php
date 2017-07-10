@@ -201,23 +201,22 @@ class="home page-template page-template-template-homepage page-template-template
                           <!--- This egment is meant for my slider -->
                           <div id="mh_magazine_slider-2" class="mh-widget mh-home-2 mh-widget-col-2 mh_magazine_slider">
                             <div class="flexslider mh-slider-widget mh-slider-normal mh-slider-layout1">
+
                               <ul class="slides">
                                 <li class="mh-slider-item">
                                   <article>
                                     <a href="#" title="">
-                                      <img width="678" height="381" src="images/singapore_river-678x381.jpg" class="attachment-mh-magazine-content
+                                      <img width="678" height="381" src="images/singa.jpg" class="attachment-mh-magazine-content
                                       size-mh-magazine-content wp-post-image" sizes="(max-width: 678px) 100vw, 678px" />
                                     </a>
                                     <div class="mh-image-caption mh-slider-category"> World</div>
                                     <div class="mh-slider-caption">
                                       <div class="mh-slider-content">
-                                        <h2 class="mh-slider-title">
+                                        <h3 class="mh-slider-title">
                                           <a href="#" title=""> Consequat vel illum dolore eu feugiat </a>
-                                        </h2>
+                                        </h3>
                                         <div class="mh-excerpt">
                                           Tatvero accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-                                          consetetur sadipscing elitr, sed diam nonumy eirmod takimata sanctus
-                                          est Lorem ipsum dolor sit amet. Duis autem vel eum iriure
                                           <nav class="mh-social-icons mh-social-nav mh-social-nav-top clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
                                             <ul>Share
                                               <li><a href="https://www.facebook.com/thescript"><i class="fa fa-mh-social"></i></a></li>
@@ -226,7 +225,63 @@ class="home page-template page-template-template-homepage page-template-template
                                               <li><a target="_blank" href="https://www.youtube.com/thescript"><i class="fa fa-mh-social"></i></a></li>
                                             </ul>
                                           </nav>
-                                          <a class="" href="single.php">[...]</a>
+
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </article>
+                                </li>
+                                <li class="mh-slider-item">
+                                  <article>
+                                    <a href="#" title="">
+                                      <img width="678" height="381" src="images/singa.jpg" class="attachment-mh-magazine-content
+                                      size-mh-magazine-content wp-post-image" sizes="(max-width: 678px) 100vw, 678px" />
+                                    </a>
+                                    <div class="mh-image-caption mh-slider-category"> World</div>
+                                    <div class="mh-slider-caption">
+                                      <div class="mh-slider-content">
+                                        <h3 class="mh-slider-title">
+                                          <a href="#" title=""> Consequat vel illum dolore eu feugiat </a>
+                                        </h3>
+                                        <div class="mh-excerpt">
+                                          Tatvero accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+                                          <nav class="mh-social-icons mh-social-nav mh-social-nav-top clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+                                            <ul>Share
+                                              <li><a href="https://www.facebook.com/thescript"><i class="fa fa-mh-social"></i></a></li>
+                                              <li><a target="_blank" href="https://twitter.com/thescript"><i class="fa fa-mh-social"></i></a></li>
+                                              <li><a target="_blank" href="https://plus.google.com/thescript"><i class="fa fa-mh-social"></i></a></li>
+                                              <li><a target="_blank" href="https://www.youtube.com/thescript"><i class="fa fa-mh-social"></i></a></li>
+                                            </ul>
+                                          </nav>
+
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </article>
+                                </li>
+                                <li class="mh-slider-item">
+                                  <article>
+                                    <a href="#" title="">
+                                      <img width="678" height="381" src="images/singa.jpg" class="attachment-mh-magazine-content
+                                      size-mh-magazine-content wp-post-image" sizes="(max-width: 678px) 100vw, 678px" />
+                                    </a>
+                                    <div class="mh-image-caption mh-slider-category"> World</div>
+                                    <div class="mh-slider-caption">
+                                      <div class="mh-slider-content">
+                                        <h3 class="mh-slider-title">
+                                          <a href="#" title=""> Consequat vel illum dolore eu feugiat </a>
+                                        </h3>
+                                        <div class="mh-excerpt">
+                                          Tatvero accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+                                          <nav class="mh-social-icons mh-social-nav mh-social-nav-top clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+                                            <ul>Share
+                                              <li><a href="https://www.facebook.com/thescript"><i class="fa fa-mh-social"></i></a></li>
+                                              <li><a target="_blank" href="https://twitter.com/thescript"><i class="fa fa-mh-social"></i></a></li>
+                                              <li><a target="_blank" href="https://plus.google.com/thescript"><i class="fa fa-mh-social"></i></a></li>
+                                              <li><a target="_blank" href="https://www.youtube.com/thescript"><i class="fa fa-mh-social"></i></a></li>
+                                            </ul>
+                                          </nav>
+
                                         </div>
                                       </div>
                                     </div>
@@ -235,7 +290,8 @@ class="home page-template page-template-template-homepage page-template-template
                               </ul>
                             </div>
                           </div>
-                          <!--- This egment is meant for my slider -->
+
+                          <!--- This segment is meant for my slider -->
 
                           <div class="clearfix">
                             <div class="mh-widget-col-1 mh-sidebar mh-home-sidebar mh-home-area-3">
@@ -474,16 +530,22 @@ class="home page-template page-template-template-homepage page-template-template
                                                                           <div class="mh-video-widget">
                                                                             <div class="mh-video-container">
                                                                               <iframe seamless width="1280" height="720" src="http://www.youtube.com/embed/WBgwuFM92i4?wmode=opaque&amp;hd=1&amp;autoplay=0&amp;showinfo=0&amp;controls=0&amp;rel=0" allowfullscreen></iframe>
+
                                                                             </div>
+                                                                            <p style="font-size: 12px; font-weight:bold; padding-top: 5px; padding-bottom:5px;">
+                                                                              <a href="#">
+                                                                              <i class="fa fa-chevron-right" style="padding-top: 5px; padding-bottom:5px"></i>About Obama at the G8 world leaders summit:
+                                                                            </a>
+                                                                          </p>
                                                                           </div>
                                                                           <ul class="mh-custom-posts-widget clearfix">
                                                                             <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-144 post type-post status-publish format-standard has-post-thumbnail category-world tag-boat tag-sightseeing tag-travel tag-world">
                                                                               <figure class="mh-custom-posts-thumb">
                                                                                 <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Iam nonumy eirmod tempor invidunt ut labore et dol">
-                                                                                  <img width="80" height="60" src="images/ship-80x60.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Ship"  sizes="(max-width: 80px) 100vw, 80px" /> </a>
+                                                                                  <img width="80" height="60" src="images/Picture1.png" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Ship"  sizes="(max-width: 80px) 100vw, 80px" /> </a>
                                                                                 </figure>
                                                                                 <div class="mh-custom-posts-header">
-                                                                                  <div class="mh-custom-posts-small-title"> <a href="#" title="Iam nonumy eirmod tempor invidunt ut labore et dol"> Iam nonumy eirmod tempor invidunt ut labore et dol </a></div>
+                                                                                  <div class="mh-custom-posts-small-title"> <a href="#" title="Iam nonumy eirmod tempor invidunt ut labore et dol"> Maitama Sule: Osinbajo Visits Kano, Condoles With Residents</a></div>
                                                                                   <div class="mh-meta entry-meta">
                                                                                     <span class="entry-meta-date updated" style="color:black;">
                                                                                       <i class="fa fa-play fa-1g" aria-hidden="true"></i>
@@ -495,10 +557,10 @@ class="home page-template page-template-template-homepage page-template-template
                                                                               <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-144 post type-post status-publish format-standard has-post-thumbnail category-world tag-boat tag-sightseeing tag-travel tag-world">
                                                                                 <figure class="mh-custom-posts-thumb">
                                                                                   <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Iam nonumy eirmod tempor invidunt ut labore et dol">
-                                                                                    <img width="80" height="60" src="images/ship-80x60.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Ship"  sizes="(max-width: 80px) 100vw, 80px" /> </a>
+                                                                                    <img width="80" height="60" src="images/Picture4.png" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Ship"  sizes="(max-width: 80px) 100vw, 80px" /> </a>
                                                                                   </figure>
                                                                                   <div class="mh-custom-posts-header">
-                                                                                    <div class="mh-custom-posts-small-title"> <a href="#" title="Iam nonumy eirmod tempor invidunt ut labore et dol"> Iam nonumy eirmod tempor invidunt ut labore et dol </a></div>
+                                                                                    <div class="mh-custom-posts-small-title"> <a href="#" title="Iam nonumy eirmod tempor invidunt ut labore et dol"> Saraki’s CCT acquittal: Fed. Govt. Completes record transmission.</a></div>
                                                                                     <div class="mh-meta entry-meta">
                                                                                       <span class="entry-meta-date updated" style="color:black;">
                                                                                         <i class="fa fa-play fa-1g" aria-hidden="true"></i>
@@ -509,16 +571,16 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                 </li>
                                                                               </ul>
                                                                             </div>
-                                                                            <div id="mh_magazine_custom_posts-2" class="mh-widget mh-home-6 mh_magazine_custom_posts" style="margin-top:46px;">
+                                                                            <div id="mh_magazine_custom_posts-2" class="mh-widget mh-home-6 mh_magazine_custom_posts">
                                                                               <h4 class="mh-widget-title"><span class="mh-widget-title-inner">IN THE NEWS</span></h4>
                                                                               <ul class="mh-custom-posts-widget clearfix">
                                                                                 <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-140 post type-post status-publish format-standard has-post-thumbnail category-world tag-festival tag-sightseeing tag-travel tag-world">
                                                                                   <figure class="mh-custom-posts-thumb">
                                                                                     <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Hendrerit in vulputate velit esse molestie consequat">
-                                                                                      <img width="80" height="60" src="images/light_garland-80x60.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland" sizes="(max-width: 80px) 100vw, 80px" /> </a>
+                                                                                      <img width="80" height="60" src="images/Picture3.png" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland" sizes="(max-width: 80px) 100vw, 80px" /> </a>
                                                                                     </figure>
                                                                                     <div class="mh-custom-posts-header">
-                                                                                      <div class="mh-custom-posts-small-title"> <a href="#" title="Hendrerit in vulputate velit esse molestie consequat"> Hendrerit in vulputate velit esse molestie consequat </a></div>
+                                                                                      <div class="mh-custom-posts-small-title"> <a href="#" title="Hendrerit in vulputate velit esse molestie consequat">Saraki’s CCT acquittal: Fed. Govt. Completes record transmission. </a></div>
                                                                                       <div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="#">Oct 4, 2015</a></span>
                                                                                         <span class="entry-meta-comments"><i class="fa fa-comment-o"></i><a href="#" class="mh-comment-count-link" >6</a></span></div>
                                                                                       </div>
@@ -526,7 +588,7 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                     <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-140 post type-post status-publish format-standard has-post-thumbnail category-world tag-festival tag-sightseeing tag-travel tag-world">
                                                                                       <figure class="mh-custom-posts-thumb">
                                                                                         <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Hendrerit in vulputate velit esse molestie consequat">
-                                                                                          <img width="80" height="60" src="images/light_garland-80x60.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland" sizes="(max-width: 80px) 100vw, 80px" /> </a>
+                                                                                          <img width="80" height="60" src="images/Picture1.png" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland" sizes="(max-width: 80px) 100vw, 80px" /> </a>
                                                                                         </figure>
                                                                                         <div class="mh-custom-posts-header">
                                                                                           <div class="mh-custom-posts-small-title"> <a href="#" title="Hendrerit in vulputate velit esse molestie consequat">
@@ -538,20 +600,20 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                           <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-108 post type-post status-publish format-standard has-post-thumbnail category-money tag-banks tag-credit-cards tag-financial tag-money">
                                                                                             <figure class="mh-custom-posts-thumb">
                                                                                               <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Sea takimata sanctus est lorem ipsum dolor sit">
-                                                                                                <img width="80" height="60" src="images/credit_card-80x60.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Credit Card" sizes="(max-width: 80px) 100vw, 80px" /> </a>
+                                                                                                <img width="80" height="60" src="images/Picture2.png" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Credit Card" sizes="(max-width: 80px) 100vw, 80px" /> </a>
                                                                                               </figure>
                                                                                               <div class="mh-custom-posts-header">
-                                                                                                <div class="mh-custom-posts-small-title"> <a href="#" title="Sea takimata sanctus est lorem ipsum dolor sit"> Sea takimata sanctus est lorem ipsum dolor sit </a></div>
+                                                                                                <div class="mh-custom-posts-small-title"> <a href="#" title="Sea takimata sanctus est lorem ipsum dolor sit">Maitama Sule: Osinbajo Visits Kano, Condoles With Residents</a></div>
                                                                                                 <div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="#">Jul 10, 2015</a></span> <span class="entry-meta-comments"><i class="fa fa-comment-o"></i><a href="#" class="mh-comment-count-link" >3</a></span></div>
                                                                                               </div>
                                                                                             </li>
                                                                                             <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-75 post type-post status-publish format-standard has-post-thumbnail category-europe tag-europe tag-mobility tag-trainstation tag-travel">
                                                                                               <figure class="mh-custom-posts-thumb">
                                                                                                 <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Vulputate velit esse molestie consequat vel illum">
-                                                                                                  <img width="80" height="60" src="images/architecture-80x60.jpg" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Architecture"  sizes="(max-width: 80px) 100vw, 80px" /> </a>
+                                                                                                  <img width="80" height="60" src="images/Picture1.png" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Architecture"  sizes="(max-width: 80px) 100vw, 80px" /> </a>
                                                                                                 </figure>
                                                                                                 <div class="mh-custom-posts-header">
-                                                                                                  <div class="mh-custom-posts-small-title"> <a href="#" title="Vulputate velit esse molestie consequat vel illum"> Vulputate velit esse molestie consequat vel illum </a></div>
+                                                                                                  <div class="mh-custom-posts-small-title"> <a href="#" title="Vulputate velit esse molestie consequat vel illum">Saraki’s CCT acquittal: Fed. Govt. Completes record transmission. </a></div>
                                                                                                   <div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="#">Mar 10, 2015</a></span>
                                                                                                     <span class="entry-meta-comments"><i class="fa fa-comment-o"></i>
                                                                                                       <a href="" class="mh-comment-count-link" >2</a></span></div>
@@ -577,7 +639,7 @@ class="home page-template page-template-template-homepage page-template-template
 
                                                                                                   <div id="tab-mh_magazine_tabbed-2-2" class="mh-tab-content mh-tab-posts">
                                                                                                     <div class="mh-custom-posts-header">
-                                                                                                      <div class="mh-custom-posts-small-title"> <a href="#" title="Vulputate velit esse molestie consequat vel illum"> Vulputate velit esse molestie consequat vel illum </a></div>
+                                                                                                      <div class="mh-custom-posts-small-title"> <a href="#" title="Vulputate velit esse molestie consequat vel illum"> Maitama Sule: Osinbajo Visits Kano, Condoles With Residents </a></div>
                                                                                                       <div class="mh-meta entry-meta">
                                                                                                         <span class="entry-meta-date updated">
                                                                                                           <i class="fa fa-clock-o"></i><a href="#">Mar 10, 2015</a>
@@ -585,7 +647,7 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                                           <a href="#" class="mh-comment-count-link" >2</a></span></div>
                                                                                                         </div>
                                                                                                         <div class="mh-custom-posts-header">
-                                                                                                          <div class="mh-custom-posts-small-title"> <a href="#" title="Vulputate velit esse molestie consequat vel illum"> Vulputate velit esse molestie consequat vel illum </a></div>
+                                                                                                          <div class="mh-custom-posts-small-title"> <a href="#" title="Vulputate velit esse molestie consequat vel illum"> Man United agree £75m deal with Everton for Romelu Lukaku </a></div>
                                                                                                           <div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="#">Mar 10, 2015</a></span>
                                                                                                             <span class="entry-meta-comments"><i class="fa fa-comment-o"></i>
                                                                                                               <a href="#" class="mh-comment-count-link" >2</a></span></div>
@@ -603,95 +665,95 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                                         <table class="dd" cellspacing="15px">
                                                                                                           <tr>
                                                                                                             <th></th>
-                                                                                                            <th><img src="images/ukthumb" width="30px" /><br>UK Stocks</th>
-                                                                                                            <th><img src="images/usthumb.jpg" width="30px" /><br>USA Stocks
-                                                                                                              <th><img src="images/chinathumb.png" width="30px" /><br>CHN Stocks</th>
-                                                                                                            </tr>
-                                                                                                            <tr>
-                                                                                                              <td>July 3, 2017</td><td>363/365</td><td>455/465</td><td>405/410</td>
-                                                                                                            </tr>
-                                                                                                            <tr>
-                                                                                                              <td>July 3, 2017</td><td>363/365</td><td>455/465</td><td>405/410</td>
-                                                                                                            </tr>
-                                                                                                            <tr class="third_tr">
-                                                                                                              <td>July 3, 2017</td><td>363/365</td><td>455/465</td><td>405/410</td>
-                                                                                                            </tr>
-                                                                                                            <tr>
-                                                                                                              <td>July 3, 2017</td><td>363/365</td><td>455/465</td><td>405/410</td>
-                                                                                                            </tr>
-                                                                                                            <tr>
-                                                                                                              <td>July 3, 2017</td><td>363/365</td><td>455/465</td><td>405/410</td>
-                                                                                                            </tr>
-                                                                                                          </table>
+                                                                                                            <th><img src="images/ukthumb" width="30px" /><br>BUY/SELL</th>
+                                                                                                            <th><img src="images/uslogo.png" width="30px" /><br>BUY/SELL</th>
+                                                                                                            <th><img src="images/eurologo.jpg" width="30px" /><br>BUY/SELL</th>
+                                                                                                          </tr>
+                                                                                                          <tr>
+                                                                                                            <td>July 3, 2017</td><td>363/365</td><td>455/465</td><td>405/410</td>
+                                                                                                          </tr>
+                                                                                                          <tr>
+                                                                                                            <td>July 3, 2017</td><td>363/365</td><td>455/465</td><td>405/410</td>
+                                                                                                          </tr>
+                                                                                                          <tr class="third_tr">
+                                                                                                            <td>July 3, 2017</td><td>363/365</td><td>455/465</td><td>405/410</td>
+                                                                                                          </tr>
+                                                                                                          <tr>
+                                                                                                            <td>July 3, 2017</td><td>363/365</td><td>455/465</td><td>405/410</td>
+                                                                                                          </tr>
+                                                                                                          <tr>
+                                                                                                            <td>July 3, 2017</td><td>363/365</td><td>455/465</td><td>405/410</td>
+                                                                                                          </tr>
+                                                                                                        </table>
 
 
-                                                                                                          <style>
-                                                                                                          .mv-tab-content {
-                                                                                                            display: none;
-                                                                                                            padding: 10px;
-                                                                                                            background: #f5f5f5
-                                                                                                          }
-                                                                                                          .mv-tab-posts {
-                                                                                                            display: block
-                                                                                                          }
-                                                                                                          table.dd {
-                                                                                                            font-family: verdana,arial,sans-serif;
-                                                                                                            font-size:11px;
-                                                                                                            color:#333333;
+                                                                                                        <style>
+                                                                                                        .mv-tab-content {
+                                                                                                          display: none;
+                                                                                                          padding: 10px;
+                                                                                                          background: #f5f5f5
+                                                                                                        }
+                                                                                                        .mv-tab-posts {
+                                                                                                          display: block
+                                                                                                        }
+                                                                                                        table.dd {
+                                                                                                          font-family: verdana,arial,sans-serif;
+                                                                                                          font-size:11px;
+                                                                                                          color:#333333;
 
 
 
-                                                                                                          }
-                                                                                                          table.dd td {
+                                                                                                        }
+                                                                                                        table.dd td {
 
-                                                                                                            padding: 8px;
-                                                                                                            background-color: #dedede;
-                                                                                                            border-bottom: 1px solid #6666
-                                                                                                          }
-                                                                                                          table.dd th {
-                                                                                                            background-color: #dedede;
-                                                                                                            padding: 8px;
-                                                                                                            border-style: solid;
-                                                                                                            text-align: center;
-                                                                                                          }
-                                                                                                          .third_tr {
-                                                                                                            border-bottom: 1px solid #000;
-                                                                                                          }
-                                                                                                          </style>
+                                                                                                          padding: 8px;
+                                                                                                          background-color: #dedede;
+                                                                                                          border-bottom: 1px solid #6666
+                                                                                                        }
+                                                                                                        table.dd th {
+                                                                                                          background-color: #dedede;
+                                                                                                          padding: 8px;
+                                                                                                          border-style: solid;
+                                                                                                          text-align: center;
+                                                                                                        }
+                                                                                                        .third_tr {
+                                                                                                          border-bottom: 1px solid #000;
+                                                                                                        }
+                                                                                                        </style>
 
-                                                                                                          <div class="mh-tab-buttons clearfix">
-                                                                                                            <a class="mh-tab-button" href=""> Most Read </a>
-                                                                                                          </div>
-                                                                                                          <div class="" style="marign-top:20px;">
-                                                                                                            <div id="mh_magazine_custom_posts-2" class="mh-widget mh-home-6 mh_magazine_custom_posts">
-                                                                                                              <ul class="mh-custom-posts-widget clearfix">
-                                                                                                                <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-140 post type-post status-publish format-standard has-post-thumbnail category-world tag-festival tag-sightseeing tag-travel tag-world">
-                                                                                                                  <figure class="mh-custom-posts-thumb">
-                                                                                                                    <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Hendrerit in vulputate velit esse molestie consequat">
-                                                                                                                      <img width="80" height="80" src="images/light_garland-80x60.jpg" style="height:80px;" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland" sizes="(max-width: 80px) 100vw, 80px" /> </a>
-                                                                                                                    </figure>
-                                                                                                                    <div class="mh-custom-posts-header">
-                                                                                                                      <div class="mh-custom-posts-small-title">
-                                                                                                                        <a href="#" title="Hendrerit in vulputate velit esse molestie consequat"> Hendrerit in vulputate velit esse molestie consequat </a></div>
-                                                                                                                        <div class="mh-meta entry-meta">
-                                                                                                                          <span class="entry-meta-date updated">
-                                                                                                                            <i class="fa fa-clock-o"></i>
-                                                                                                                            <a href="#">little sub stories would be output here not more than 100 lenght &nbsp&nbsp&nbsp&nbsp<a href="#" style="color:red;">Read more</a></a>
-                                                                                                                          </span>
-                                                                                                                        </div>
+                                                                                                        <div class="mh-tab-buttons clearfix">
+                                                                                                          <a class="mh-tab-button" href=""> Most Read </a>
+                                                                                                        </div>
+                                                                                                        <div class="" style="marign-top:20px;">
+                                                                                                          <div id="mh_magazine_custom_posts-2" class="mh-widget mh-home-6 mh_magazine_custom_posts">
+                                                                                                            <ul class="mh-custom-posts-widget clearfix">
+                                                                                                              <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-140 post type-post status-publish format-standard has-post-thumbnail category-world tag-festival tag-sightseeing tag-travel tag-world">
+                                                                                                                <figure class="mh-custom-posts-thumb">
+                                                                                                                  <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Hendrerit in vulputate velit esse molestie consequat">
+                                                                                                                    <img width="80" height="80" src="images/light_garland-80x60.jpg" style="height:80px;" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland" sizes="(max-width: 80px) 100vw, 80px" /> </a>
+                                                                                                                  </figure>
+                                                                                                                  <div class="mh-custom-posts-header">
+                                                                                                                    <div class="mh-custom-posts-small-title">
+                                                                                                                      <a href="#" title="Hendrerit in vulputate velit esse molestie consequat">CBN Plans $100m Sale At Special Auction </a></div>
+                                                                                                                      <div class="mh-meta entry-meta">
+                                                                                                                        <span class="entry-meta-date updated">
+                                                                                                                          <i class="fa fa-clock-o"></i>
+                                                                                                                          <a href="#">In a notice to commercial lenders, the financial regulator said  &nbsp&nbsp&nbsp&nbsp<a href="#" style="color:red;">Read more</a></a>
+                                                                                                                        </span>
                                                                                                                       </div>
-                                                                                                                    </li>
-                                                                                                                    <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-140 post type-post status-publish format-standard has-post-thumbnail category-world tag-festival tag-sightseeing tag-travel tag-world">
-                                                                                                                      <figure class="mh-custom-posts-thumb">
-                                                                                                                        <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Hendrerit in vulputate velit esse molestie consequat">
-                                                                                                                          <img width="80" height="80" src="images/light_garland-80x60.jpg" style="height:80px;" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland"  sizes="(max-width: 80px) 100vw, 80px" /> </a>
+                                                                                                                    </div>
+                                                                                                                  </li>
+                                                                                                                  <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-140 post type-post status-publish format-standard has-post-thumbnail category-world tag-festival tag-sightseeing tag-travel tag-world">
+                                                                                                                    <figure class="mh-custom-posts-thumb">
+                                                                                                                      <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Hendrerit in vulputate velit esse molestie consequat">
+                                                                                                                        <img width="80" height="80" src="images/light_garland-80x60.jpg" style="height:80px;" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland"  sizes="(max-width: 80px) 100vw, 80px" /> </a>
                                                                                                                       </figure>
                                                                                                                       <div class="mh-custom-posts-header">
-                                                                                                                        <div class="mh-custom-posts-small-title"> <a href="#" title="Hendrerit in vulputate velit esse molestie consequat"> Hendrerit in vulputate velit esse molestie consequat </a></div>
+                                                                                                                        <div class="mh-custom-posts-small-title"> <a href="#" title="Hendrerit in vulputate velit esse molestie consequat"> Man United agree £75m deal with Everton for Romelu Lukaku </a></div>
                                                                                                                         <div class="mh-meta entry-meta">
                                                                                                                           <span class="entry-meta-date updated">
                                                                                                                             <i class="fa fa-clock-o"></i>
-                                                                                                                            <a href="#">little sub stories would be output here not more than 100 lenght &nbsp&nbsp&nbsp&nbsp<a href="#" style="color:red;">Read more</a></a>
+                                                                                                                            <a href="#">The deal is expected to be finalized this weekend &nbsp&nbsp&nbsp&nbsp<a href="#" style="color:red;">Read more</a></a>
                                                                                                                           </span>
                                                                                                                         </div>
                                                                                                                       </div>
@@ -702,11 +764,11 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                                                           <img width="80" height="80" src="images/light_garland-80x60.jpg" style="height:80px;" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland"  sizes="(max-width: 80px) 100vw, 80px" /> </a>
                                                                                                                         </figure>
                                                                                                                         <div class="mh-custom-posts-header">
-                                                                                                                          <div class="mh-custom-posts-small-title"> <a href="#" title="Hendrerit in vulputate velit esse molestie consequat"> Hendrerit in vulputate velit esse molestie consequat </a></div>
+                                                                                                                          <div class="mh-custom-posts-small-title"> <a href="#" title="Hendrerit in vulputate velit esse molestie consequat">Ogun Govt. Shuts Over 180 Illegal Health Facilities </a></div>
                                                                                                                           <div class="mh-meta entry-meta">
                                                                                                                             <span class="entry-meta-date updated">
                                                                                                                               <i class="fa fa-clock-o"></i>
-                                                                                                                              <a href="#">little sub stories would be output here not more than 100 lenght &nbsp&nbsp&nbsp&nbsp<a href="#" style="color:red;">Read more</a></a>
+                                                                                                                              <a href="#">In a notice to commercial lenders, the financial regulator said the &nbsp&nbsp&nbsp&nbsp<a href="#" style="color:red;">Read more</a></a>
                                                                                                                             </span>
                                                                                                                           </div>
                                                                                                                         </div>
@@ -717,11 +779,11 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                                                             <img width="80" height="80" src="images/light_garland-80x60.jpg" style="height:80px;" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland" sizes="(max-width: 80px) 100vw, 80px" /> </a>
                                                                                                                           </figure>
                                                                                                                           <div class="mh-custom-posts-header">
-                                                                                                                            <div class="mh-custom-posts-small-title"> <a href="#" title="Hendrerit in vulputate velit esse molestie consequat"> Hendrerit in vulputate velit esse molestie consequat </a></div>
+                                                                                                                            <div class="mh-custom-posts-small-title"> <a href="#" title="Hendrerit in vulputate velit esse molestie consequat"> What is my crime this time?’ Harrysong asks after getting sued </a></div>
                                                                                                                             <div class="mh-meta entry-meta">
                                                                                                                               <span class="entry-meta-date updated">
                                                                                                                                 <i class="fa fa-clock-o"></i>
-                                                                                                                                <a href="#">little sub stories would be output here not more than 100 lenght &nbsp&nbsp&nbsp&nbsp<a href="#" style="color:red;">Read more</a></a>
+                                                                                                                                <a href="#">In a notice to commercial lenders, the financial regulator said &nbsp&nbsp&nbsp&nbsp<a href="#" style="color:red;">Read more</a></a>
                                                                                                                               </span>
                                                                                                                             </div>
                                                                                                                           </div>
@@ -744,9 +806,11 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                                                 <div class="mh-author-bio-widget">
                                                                                                                   <h4 class="mh-author-bio-title"> About us</h4>
                                                                                                                   <figure class="mh-author-bio-avatar mh-author-bio-image-frame">
-                                                                                                                    <a href="#"> <img src="images/MH_Themes.png" width="120" height="120" alt="MH Themes" class="avatar avatar-120 wp-user-avatar wp-user-avatar-120 alignnone photo" /> </a>
+                                                                                                                    <a href="#"> <img src="images/logoico.png" width="120" height="120" alt="MH Themes" class="avatar avatar-120 wp-user-avatar wp-user-avatar-120 alignnone photo" /> </a>
                                                                                                                   </figure>
-                                                                                                                  <div class="mh-author-bio-text"> MH Themes is specialized in flexible magazine WordPress themes for modern online magazines, dynamic news websites, professional blogs and other editorial websites from any content genre.</div>
+                                                                                                                  <div class="mh-author-bio-text">
+                                                                                                                    The Script is specialized in flexible news and real content that are guaranteed and being overviewd by the Federal government of nigeria.
+                                                                                                                  </div>
                                                                                                                 </div>
                                                                                                               </div>
                                                                                                             </div>
@@ -811,5 +875,6 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                                       };
                                                                                                       </script>
                                                                                                       <script src="2/24e975ae1dc8220d9316fc9b19334fbc.js" data-minify="1"></script>
+
                                                                                                     </body>
                                                                                                     </html>
