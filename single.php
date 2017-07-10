@@ -591,7 +591,7 @@
                                                         <div class="mh-author-bio-widget">
                                                           <h4 class="mh-author-bio-title"> About us</h4>
                                                           <figure class="mh-author-bio-avatar mh-author-bio-image-frame">
-                                                            <a href="#"> <img src="images/logoico.png" width="120" height="120" alt="MH Themes" class="avatar avatar-120 wp-user-avatar wp-user-avatar-120 alignnone photo" /> </a>
+                                                            <a href="#"> <img src="images/ok.PNG" width="120" height="120" alt="MH Themes" class="avatar avatar-120 wp-user-avatar wp-user-avatar-120 alignnone photo" /> </a>
                                                           </figure>
                                                           <div class="mh-author-bio-text">
                                                             The Script is specialized in flexible news and real content that are guaranteed and being overviewd by the Federal government of nigeria.
@@ -678,6 +678,6 @@
                                                 <script src="../wp-content/cache/min/16/e61444393b7224c1e299a8a8ea58b537.js" data-minify="1">
                                                 </script>
                                               </body>
-                                              
+
 
                                               </html>
