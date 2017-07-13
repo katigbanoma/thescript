@@ -5,7 +5,7 @@
 <head>
   <link rel="stylesheet" href="css/main.css" />
   <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
-  <script src="js/1a3a42350a633cb9a3652e34f52a8e09.js"></script>
+  <script src="js/jq0.js"></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>single</title>
@@ -322,7 +322,7 @@
                                   </div>
                                 </div>
                               </div>
-                              <aside class="mh-widget-col-1 mh-sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+                              <aside class="mh-widget-col-1 mh-sidebar">
                                 <div id="text-2" class="mh-widget widget_text">
                                   <div class="textwidget">
                                     <div class="mh-ad-spot">
@@ -331,12 +331,6 @@
                                       </div>
                                     </div>
                                   </div>
-
-
-
-
-
-
                                   <div id="mh_magazine_nip-2" class="mh-widget mh_magazine_nip">
                                     <h4 class="mh-widget-title"><span class="mh-widget-title-inner">News in Pictures</span></h4>
                                     <ul class="mh-nip-widget clearfix">
@@ -578,10 +572,6 @@
 
                                                     </aside>
                                                   </div>
-
-
-
-
                                                 </div>
 
                                                 <footer class="mh-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
@@ -591,10 +581,10 @@
                                                         <div class="mh-author-bio-widget">
                                                           <h4 class="mh-author-bio-title"> About us</h4>
                                                           <figure class="mh-author-bio-avatar mh-author-bio-image-frame">
-                                                            <a href="#"> <img src="images/ok.PNG" width="120" height="120" alt="MH Themes" class="avatar avatar-120 wp-user-avatar wp-user-avatar-120 alignnone photo" /> </a>
+                                                            <a href="about.php"> <img src="images/logoico.png" width="120" height="120" alt="MH Themes" class="avatar avatar-120 wp-user-avatar wp-user-avatar-120 alignnone photo" /> </a>
                                                           </figure>
-                                                          <div class="mh-author-bio-text">
-                                                            The Script is specialized in flexible news and real content that are guaranteed and being overviewd by the Federal government of nigeria.
+                                                          <div class="mh-author-bio-text" style="font-size:11px; text-align: justify;">
+                                                            <a href="about.php" style="color: #000;">The Script is specialized in flexible news and real content that are guaranteed and being buh hbkjbnd k.z,fn sljn zikvjn vld bhnj bf,..</a>
                                                           </div>
                                                         </div>
                                                       </div>
@@ -675,7 +665,9 @@
                                                   "cached": "1"
                                                 };
                                                 </script>
-                                                <script src="../wp-content/cache/min/16/e61444393b7224c1e299a8a8ea58b537.js" data-minify="1">
+                                                <script src="js/jq1.js" data-minify="1">
+                                                </script>
+                                                <script src="js/jq2.js" data-minify="1">
                                                 </script>
                                               </body>
 

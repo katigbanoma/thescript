@@ -2886,7 +2886,8 @@ div.wpcf7-response-output {
 
 .mh-widget,
 .mh-footer-widget {
-    margin-bottom: 25px;
+    margin-bottom: 15px;
+    padding: 5px;
     overflow: hidden
 }
 
@@ -2903,7 +2904,7 @@ div.wpcf7-response-output {
     font-size: 16px;
     font-size: 1rem;
     padding-bottom: 5px;
-    border-bottom: 3px solid #e64946
+    border-bottom: 1.5px solid #e64946
 }
 
 .mh-widget-layout1 .mh-footer-widget-title {
@@ -3106,8 +3107,9 @@ div.wpcf7-response-output {
 }
 
 .mh-slider-layout1 .flex-control-paging li a {
-    width: 15px;
-    height: 15px;
+    display: none;
+    width: 5px;
+    height: 5px;
     border: 1px solid #2a2a2a;
     background: #fff;
     -webkit-box-shadow: none;
@@ -3130,11 +3132,11 @@ div.wpcf7-response-output {
 }
 
 .mh-slider-layout1 .mh-slider-caption {
-    width: 350px;
-    max-width: 100%;
-    top: 0;
-    right: 0;
-    border-bottom: 3px solid #e64946
+    /*width: 350px;
+    max-width: 100%;*/
+    bottom: 0;
+    /*right: 0;*/
+    /*border-bottom: 3px solid #e64946*/
 }
 
 .mh-widget-col-1 .mh-slider-layout1 .flex-control-nav {
@@ -3328,7 +3330,7 @@ div.wpcf7-response-output {
 }
 
 .mh-slider-content {
-    padding: 25px;
+    padding: 10px;
     overflow: hidden
 }
 
@@ -3503,7 +3505,7 @@ div.wpcf7-response-output {
 }
 
 .mh-custom-posts-item {
-    padding: 20px 0;
+    padding: 8.5px 0;
     border-bottom: 1px dotted #ebebeb
 }
 
@@ -4184,10 +4186,10 @@ div.wpcf7-response-output {
 .mh-author-bio-title {
     font-size: 16px;
     font-size: 1rem;
-    color: #fff;
+    color: #000;
     padding: 0 0 5px;
-    margin-bottom: 25px;
-    border-bottom: 3px solid #e64946;
+    margin-bottom: 15px;
+    border-bottom: 3px solid red;
     text-transform: uppercase
 }
 
@@ -4201,7 +4203,7 @@ div.wpcf7-response-output {
 
 .mh-author-bio-avatar {
     width: 120px;
-    height: 120px;
+
     margin: 0 auto
 }
 
@@ -4209,29 +4211,29 @@ div.wpcf7-response-output {
     font-size: 14px;
     font-size: 0.875rem;
     color: #fff;
-    margin-top: 25px
+    padding-top: 17px;
 }
 
 .mh-footer-widget .mh-author-bio-widget {
     border-bottom: 0;
-    background: #e64946
+    background: #fff
 }
 
 .mh-footer-widget .mh-author-bio-title {
     font-size: 14px;
     font-size: 0.875rem;
-    color: #fff
+    color: #000
 }
 
 .mh-footer-widget .mh-author-bio-title,
 .mh-footer-widget .mh-author-bio-image-frame {
-    border-color: #fff
+    border-color: red
 }
 
 .mh-footer-widget .mh-author-bio-text {
     font-size: 13px;
     font-size: 0.8125rem;
-    color: #fff
+    color: #000
 }
 
 .mh_magazine_youtube .fa {
@@ -4241,7 +4243,7 @@ div.wpcf7-response-output {
 }
 
 .mh-video-widget {
-    border-bottom: 3px solid #e64946
+    border-bottom: 1.5px solid #e64946
 }
 
 .mh-video-container {

@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <!--<script src="https://use.fontawesome.com/771f289318.js"></script>-->
   <link rel="stylesheet" href="css/main.css" />
   <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
-  <script src="js/1a3a42350a633cb9a3652e34f52a8e09.js"></script>
-  <script src="js/24e975ae1dc8220d9316fc9b19334fbc.js"></script>
-  <script src="js/e61444393b7224c1e299a8a8ea58b537.js"></script>
+  <script src="js/jq0.js"></script>
+  <script src="js/jq1.js"></script>
+  <script src="js/jq2.js"></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Script</title>
@@ -46,25 +44,24 @@
   </style>
 </head>
 
-<body id="mh-mobile"
-class="home page-template page-template-template-homepage page-template-template-homepage-php page page-id-6 custom-background wp-custom-logo mh-boxed-layout mh-right-sb mh-loop-layout1 mh-widget-layout1 mh-loop-hide-caption" >
-<div class="mh-container mh-container-outer">
-  <div class="mh-header-nav-mobile clearfix"></div>
-  <div class="mh-preheader">
-    <div class="mh-container mh-container-inner mh-row clearfix">
-      <div class="mh-header-bar-content mh-header-bar-top-left mh-col-2-3 clearfix">
-        <nav class="mh-navigation mh-header-nav mh-header-nav-top clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
-          <div class="menu-header-container">
-            <ul id="menu-header" class="menu social-links">
-              <li>Monday July 3, 2017</li>
-              <li><a href="https://facebook.com/thescript"><i class="fa fa-facebook fa-2x"></i></a></li>
-              <li><a href="https://twitter.com/thescript"><i class="fa fa-twitter fa-2x"></i></a></li>
-              <li><a href="https://google.com/thescript"><i class="fa fa-google-plus fa-2x"></i></a></li>
-              <li><a href="https://youtube.com/thescript"><i class="fa fa-youtube fa-2x"></i></a></li>
-            </ul>
+<body id="mh-mobile" class="home page-template page-template-template-homepage page-template-template-homepage-php page page-id-6 custom-background wp-custom-logo mh-boxed-layout mh-right-sb mh-loop-layout1 mh-widget-layout1 mh-loop-hide-caption" >
+  <div class="mh-container mh-container-outer">
+    <div class="mh-header-nav-mobile clearfix"></div>
+      <div class="mh-preheader">
+        <div class="mh-container mh-container-inner mh-row clearfix">
+          <div class="mh-header-bar-content mh-header-bar-top-left mh-col-2-3 clearfix">
+            <nav class="mh-navigation mh-header-nav mh-header-nav-top clearfix">
+              <div class="menu-header-container">
+                <ul id="menu-header" class="menu social-links">
+                  <li>Monday July 3, 2017</li>
+                  <li><a href="https://facebook.com/thescript"><i class="fa fa-facebook fa-2x"></i></a></li>
+                  <li><a href="https://twitter.com/thescript"><i class="fa fa-twitter fa-2x"></i></a></li>
+                  <li><a href="https://google.com/thescript"><i class="fa fa-google-plus fa-2x"></i></a></li>
+                  <li><a href="https://youtube.com/thescript"><i class="fa fa-youtube fa-2x"></i></a></li>
+                </ul>
+              </div>
+            </nav>
           </div>
-        </nav>
-      </div>
 
       <div class="mh-header-bar-content mh-header-bar-bottom-right mh-col-1-3 clearfix">
         <aside class="mh-header-search mh-header-search-bottom">
@@ -217,7 +214,7 @@ class="home page-template page-template-template-homepage page-template-template
                                         </h3>
                                         <div class="mh-excerpt">
                                           Tatvero accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-                                          <nav class="mh-social-icons mh-social-nav mh-social-nav-top clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+                                          <nav class="mh-social-icons mh-social-nav mh-social-nav-top clearfix">
                                             <ul>Share
                                               <li><a href="https://www.facebook.com/thescript"><i class="fa fa-mh-social"></i></a></li>
                                               <li><a target="_blank" href="https://twitter.com/thescript"><i class="fa fa-mh-social"></i></a></li>
@@ -225,7 +222,6 @@ class="home page-template page-template-template-homepage page-template-template
                                               <li><a target="_blank" href="https://www.youtube.com/thescript"><i class="fa fa-mh-social"></i></a></li>
                                             </ul>
                                           </nav>
-
                                         </div>
                                       </div>
                                     </div>
@@ -301,7 +297,7 @@ class="home page-template page-template-template-homepage page-template-template
                                     <a href="single.php" class="mh-widget-title-link">Local</a>
                                     <span style="padding:15px;">
                                       <div style="display:inline" style="font-size:5px; background:#000; border:1px solid #000; float:right">
-                                        <a href="single.php" style="float:right; background-color:#ccc; font-size:8pt; padding:4px;">VIEW MORE</a>
+                                        <a href="more.php" style="float:right; background-color:#ccc; font-size:8pt; padding:4px;">VIEW MORE</a>
                                       </div>
                                     </span>
                                   </span>
@@ -336,7 +332,7 @@ class="home page-template page-template-template-homepage page-template-template
                                               <a href="single.php" class="mh-widget-title-link">Health</a>
                                               <span style="padding:15px;">
                                                 <div style="display:inline" style="font-size:5px; background:#000; border:1px solid #000; float:right">
-                                                  <a href="single.php" style="float:right; background-color:#ccc; font-size:8pt; padding:4px;">VIEW MORE</a>
+                                                  <a href="more.php" style="float:right; background-color:#ccc; font-size:8pt; padding:4px;">VIEW MORE</a>
                                                 </div>
                                               </span>
                                             </span>
@@ -372,7 +368,7 @@ class="home page-template page-template-template-homepage page-template-template
                                                     <a href="single.php" class="mh-widget-title-link">Economy</a>
                                                     <span style="padding:15px;">
                                                       <div style="display:inline" style="font-size:5px; background:#000; border:1px solid #000; float:right">
-                                                        <a href="single.php" style="float:right; background-color:#ccc; font-size:8pt; padding:4px;">VIEW MORE</a>
+                                                        <a href="more.php" style="float:right; background-color:#ccc; font-size:8pt; padding:4px;">VIEW MORE</a>
                                                       </div>
                                                     </span>
                                                   </span>
@@ -413,7 +409,7 @@ class="home page-template page-template-template-homepage page-template-template
                                                           </span>
                                                           <span style="padding:15px;">
                                                             <div style="display:inline" style="font-size:5px; background:#000; border:1px solid #000; float:right">
-                                                              <a href="single.php" style="float:right; background-color:#ccc; font-size:8pt; padding:4px;">VIEW MORE</a>
+                                                              <a href="more.php" style="float:right; background-color:#ccc; font-size:8pt; padding:4px;">VIEW MORE</a>
                                                             </div>
                                                           </span>
                                                         </h4>
@@ -427,15 +423,15 @@ class="home page-template page-template-template-homepage page-template-template
                                                                 <div class="mh-custom-posts-content">
                                                                   <div class="mh-custom-posts-header">
                                                                     <h3 class="mh-custom-posts-xl-title"> <a href="single.php" title="Esse molestie consequat vel illum dolore eu feugiat">
-                                                                      Saraki’s CCT acquittal: Fed. Govt. Completes record transmission. </a>
+                                                                      Saraki’s CCT acquittal: Fed Govt Completes record transmission. </a>
                                                                     </h3>
                                                                     <div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i>
                                                                       <a href="#">Oct 12, 2015</a></span> <span class="entry-meta-comments"><i class="fa fa-comment-o"></i>
                                                                         <a href="#" class="mh-comment-count-link" >0</a></span></div>
                                                                       </div>
                                                                       <div class="mh-excerpt">
-                                                                        The office of the Attorney General of the Federation (AGF) yesterday completed the transmission of record of proceedings at the Code
-                                                                        of Conduct
+                                                                        The office of the Attorney General of the Federation (AGF) yesterday completed the transmission
+                                                                         of record of proceedings
                                                                         <a class="mh-excerpt-more" href="#" title="Esse molestie consequat vel illum dolore eu feugiat">[...]</a></div>
                                                                       </div>
                                                                     </div>
@@ -446,7 +442,7 @@ class="home page-template page-template-template-homepage page-template-template
                                                                     </span>
                                                                     <span style="padding:15px;">
                                                                       <div style="display:inline" style="font-size:5px; background:#000; border:1px solid #000; float:right">
-                                                                        <a href="single.php" style="float:right; background-color:#ccc; font-size:8pt; padding:4px;">VIEW MORE</a>
+                                                                        <a href="more.php" style="float:right; background-color:#ccc; font-size:8pt; padding:4px;">VIEW MORE</a>
                                                                       </div>
                                                                     </span>
                                                                   </h4>
@@ -461,7 +457,7 @@ class="home page-template page-template-template-homepage page-template-template
                                                                             <div class="mh-custom-posts-header">
                                                                               <h3 class="mh-custom-posts-xl-title">
                                                                                 <a href="single.php" title="Esse molestie consequat vel illum dolore eu feugiat">
-                                                                                  What is my crime this time?’ Harrysong asks after getting sued </a></h3>
+                                                                                  What is my crime? Harrysong asks after getting sued </a></h3>
                                                                                   <div class="mh-meta entry-meta"> <span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="#">Oct 12, 2015</a></span>
                                                                                     <span class="entry-meta-comments"><i class="fa fa-comment-o"></i><a href="#" class="mh-comment-count-link" >0</a></span>
                                                                                   </div>
@@ -478,7 +474,7 @@ class="home page-template page-template-template-homepage page-template-template
                                                                               </span>
                                                                               <span style="padding:15px;">
                                                                                 <div style="display:inline" style="font-size:5px; background:#000; border:1px solid #000; float:right">
-                                                                                  <a href="single.php" style="float:right; background-color:#ccc; font-size:8pt; padding:4px;">VIEW MORE</a>
+                                                                                  <a href="more.php" style="float:right; background-color:#ccc; font-size:8pt; padding:4px;">VIEW MORE</a>
                                                                                 </div>
                                                                               </span>
                                                                             </h4>
@@ -530,7 +526,6 @@ class="home page-template page-template-template-homepage page-template-template
                                                                           <div class="mh-video-widget">
                                                                             <div class="mh-video-container">
                                                                               <iframe seamless width="1280" height="720" src="http://www.youtube.com/embed/WBgwuFM92i4?wmode=opaque&amp;hd=1&amp;autoplay=0&amp;showinfo=0&amp;controls=0&amp;rel=0" allowfullscreen></iframe>
-
                                                                             </div>
                                                                             <p style="font-size: 12px; font-weight:bold; padding-top: 5px; padding-bottom:5px;">
                                                                               <a href="#">
@@ -538,6 +533,7 @@ class="home page-template page-template-template-homepage page-template-template
                                                                             </a>
                                                                           </p>
                                                                           </div>
+                                                                          <p style="padding: 6px 6px;">Up Next</p>
                                                                           <ul class="mh-custom-posts-widget clearfix">
                                                                             <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-144 post type-post status-publish format-standard has-post-thumbnail category-world tag-boat tag-sightseeing tag-travel tag-world">
                                                                               <figure class="mh-custom-posts-thumb">
@@ -545,7 +541,7 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                   <img width="80" height="60" src="images/Picture1.png" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Ship"  sizes="(max-width: 80px) 100vw, 80px" /> </a>
                                                                                 </figure>
                                                                                 <div class="mh-custom-posts-header">
-                                                                                  <div class="mh-custom-posts-small-title"> <a href="#" title="Iam nonumy eirmod tempor invidunt ut labore et dol"> Maitama Sule: Osinbajo Visits Kano, Condoles With Residents</a></div>
+                                                                                  <div class="mh-custom-posts-small-title"> <a href="#" style="font-size:12px;"> Maitama Sule: Osinbajo Visits Kano, Condoles With Residents</a></div>
                                                                                   <div class="mh-meta entry-meta">
                                                                                     <span class="entry-meta-date updated" style="color:black;">
                                                                                       <i class="fa fa-play fa-1g" aria-hidden="true"></i>
@@ -560,7 +556,7 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                     <img width="80" height="60" src="images/Picture4.png" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Ship"  sizes="(max-width: 80px) 100vw, 80px" /> </a>
                                                                                   </figure>
                                                                                   <div class="mh-custom-posts-header">
-                                                                                    <div class="mh-custom-posts-small-title"> <a href="#" title="Iam nonumy eirmod tempor invidunt ut labore et dol"> Saraki’s CCT acquittal: Fed. Govt. Completes record transmission.</a></div>
+                                                                                    <div class="mh-custom-posts-small-title"> <a href="#" style="font-size:12px;"> Saraki’s CCT acquittal: Fed Govt Completes record transmission.</a></div>
                                                                                     <div class="mh-meta entry-meta">
                                                                                       <span class="entry-meta-date updated" style="color:black;">
                                                                                         <i class="fa fa-play fa-1g" aria-hidden="true"></i>
@@ -660,8 +656,7 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                                           <a class="mh-tab-button" href="#">Exchange Rates </a>
                                                                                                         </div>
 
-                                                                                                        <div id="" class="mv-tab-content mv-tab-posts">
-                                                                                                        </div>
+
                                                                                                         <table class="dd" cellspacing="15px">
                                                                                                           <tr>
                                                                                                             <th></th>
@@ -721,7 +716,7 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                                         }
                                                                                                         </style>
 
-                                                                                                        <div class="mh-tab-buttons clearfix">
+                                                                                                        <div class="mh-tab-buttons clearfix" style="margin-top: 10px;">
                                                                                                           <a class="mh-tab-button" href=""> Most Read </a>
                                                                                                         </div>
                                                                                                         <div class="" style="marign-top:20px;">
@@ -774,20 +769,35 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                                                         </div>
                                                                                                                       </li>
                                                                                                                       <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-140 post type-post status-publish format-standard has-post-thumbnail category-world tag-festival tag-sightseeing tag-travel tag-world">
-                                                                                                                        <figure class="mh-custom-posts-thumb">
-                                                                                                                          <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Hendrerit in vulputate velit esse molestie consequat">
-                                                                                                                            <img width="80" height="80" src="images/light_garland-80x60.jpg" style="height:80px;" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland" sizes="(max-width: 80px) 100vw, 80px" /> </a>
-                                                                                                                          </figure>
-                                                                                                                          <div class="mh-custom-posts-header">
-                                                                                                                            <div class="mh-custom-posts-small-title"> <a href="#" title="Hendrerit in vulputate velit esse molestie consequat"> What is my crime this time?’ Harrysong asks after getting sued </a></div>
-                                                                                                                            <div class="mh-meta entry-meta">
-                                                                                                                              <span class="entry-meta-date updated">
-                                                                                                                                <i class="fa fa-clock-o"></i>
-                                                                                                                                <a href="#">In a notice to commercial lenders, the financial regulator said &nbsp&nbsp&nbsp&nbsp<a href="#" style="color:red;">Read more</a></a>
-                                                                                                                              </span>
+                                                                                                                          <figure class="mh-custom-posts-thumb">
+                                                                                                                            <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Hendrerit in vulputate velit esse molestie consequat">
+                                                                                                                              <img width="80" height="80" src="images/light_garland-80x60.jpg" style="height:80px;" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland" sizes="(max-width: 80px) 100vw, 80px" /> </a>
+                                                                                                                            </figure>
+                                                                                                                            <div class="mh-custom-posts-header">
+                                                                                                                              <div class="mh-custom-posts-small-title"> <a href="#" title="Hendrerit in vulputate velit esse molestie consequat"> What is my crime this time?’ Harrysong asks after getting sued </a></div>
+                                                                                                                              <div class="mh-meta entry-meta">
+                                                                                                                                <span class="entry-meta-date updated">
+                                                                                                                                  <i class="fa fa-clock-o"></i>
+                                                                                                                                  <a href="#">In a notice to commercial lenders, the financial regulator said &nbsp&nbsp&nbsp&nbsp<a href="#" style="color:red;">Read more</a></a>
+                                                                                                                                </span>
+                                                                                                                              </div>
                                                                                                                             </div>
-                                                                                                                          </div>
-                                                                                                                        </li>
+                                                                                                                          </li>
+                                                                                                                          <li class="mh-custom-posts-item mh-custom-posts-small clearfix post-140 post type-post status-publish format-standard has-post-thumbnail category-world tag-festival tag-sightseeing tag-travel tag-world">
+                                                                                                                            <figure class="mh-custom-posts-thumb">
+                                                                                                                              <a class="mh-thumb-icon mh-thumb-icon-small" href="#" title="Hendrerit in vulputate velit esse molestie consequat">
+                                                                                                                                <img width="80" height="80" src="images/light_garland-80x60.jpg" style="height:80px;" class="attachment-mh-magazine-small size-mh-magazine-small wp-post-image" alt="Light Garland" sizes="(max-width: 80px) 100vw, 80px" /> </a>
+                                                                                                                              </figure>
+                                                                                                                              <div class="mh-custom-posts-header">
+                                                                                                                                <div class="mh-custom-posts-small-title"> <a href="#" title="Hendrerit in vulputate velit esse molestie consequat"> What is my crime this time?’ Harrysong asks after getting sued </a></div>
+                                                                                                                                <div class="mh-meta entry-meta">
+                                                                                                                                  <span class="entry-meta-date updated">
+                                                                                                                                    <i class="fa fa-clock-o"></i>
+                                                                                                                                    <a href="#">In a notice to commercial lenders, the financial regulator said &nbsp&nbsp&nbsp&nbsp<a href="#" style="color:red;">Read more</a></a>
+                                                                                                                                  </span>
+                                                                                                                                </div>
+                                                                                                                              </div>
+                                                                                                                            </li>
                                                                                                                       </ul>
                                                                                                                     </div>
                                                                                                                   </div>
@@ -806,10 +816,10 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                                                 <div class="mh-author-bio-widget">
                                                                                                                   <h4 class="mh-author-bio-title"> About us</h4>
                                                                                                                   <figure class="mh-author-bio-avatar mh-author-bio-image-frame">
-                                                                                                                    <a href="#"> <img src="images/ok.PNG" width="120" height="120" alt="MH Themes" class="avatar avatar-120 wp-user-avatar wp-user-avatar-120 alignnone photo" /> </a>
+                                                                                                                    <a href="about.php"> <img src="images/logoico.png" width="120" height="120" alt="MH Themes" class="avatar avatar-120 wp-user-avatar wp-user-avatar-120 alignnone photo" /> </a>
                                                                                                                   </figure>
-                                                                                                                  <div class="mh-author-bio-text">
-                                                                                                                    The Script is specialized in flexible news and real content that are guaranteed and being overviewd by the Federal government of nigeria.
+                                                                                                                  <div class="mh-author-bio-text" style="font-size:11px; text-align: justify;">
+                                                                                                                    <a href="about.php" style="color: #000;">The Script is specialized in flexible news and real content that are guaranteed and being buh hbkjbnd k.z,fn sljn zikvjn vld bhnj bf,..</a>
                                                                                                                   </div>
                                                                                                                 </div>
                                                                                                               </div>
@@ -861,8 +871,8 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                                           </div>
                                                                                                         </nav>
                                                                                                         <div class="mh-copyright-wrap">
-
                                                                                                         </div>
+                                                                                                        <a href="#" class="mh-back-to-top"><i class="fa fa-chevron-up"></i></a>
                                                                                                       </div>
                                                                                                       <script type='text/javascript'>
                                                                                                       var _wpcf7 = {
@@ -874,7 +884,6 @@ class="home page-template page-template-template-homepage page-template-template
                                                                                                         "cached": "1"
                                                                                                       };
                                                                                                       </script>
-                                                                                                      <script src="2/24e975ae1dc8220d9316fc9b19334fbc.js" data-minify="1"></script>
-
+                                                                                                      <script src="jq1.js" data-minify="1"></script>
                                                                                                     </body>
                                                                                                     </html>
